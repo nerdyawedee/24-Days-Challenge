@@ -20,7 +20,7 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
   </tr>
   <tr>
     <td>10/2/24</td>
-    <td><a href="https://r.search.yahoo.com/_ylt=AwrKAxAMV8ZlODsUBPS7HAx.;_ylu=Y29sbwNzZzMEcG9zAzUEdnRpZAMEc2VjA3Ny/RV=2/RE=1707526029/RO=10/RU=https%3a%2f%2fwww.geeksforgeeks.org%2fproblems%2ftarget-sum-1626326450%2f1/RK=2/RS=pgTxSntyHcsGOVikDSJXqoOLZm0-">Two Sum </a></td>
+    <td><a href="https://leetcode.com/problems/two-sum/description/">Two Sum </a></td>
     <td><a href="https://www.codingbroz.com/two-sum-leetcode-solution/">Solution </a></td>
     <td></td>
   </tr>
