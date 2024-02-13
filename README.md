@@ -33,5 +33,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/sort-colors/description/">SORT COLORS</a></td>
     <td><a href="https://medium.com/nerd-for-tech/leetcode-sort-colors-b62131dd8a0d">Solution </a></td>
   </tr>
+  <tr>
+    <td>13/2/24</td>
+    <td><a href="https://leetcode.com/problems/4sum/description/?source=post_page---------------------------">4 Sum</a></td>
+    <td><a href="https://www.codingbroz.com/4sum-leetcode-solution/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
