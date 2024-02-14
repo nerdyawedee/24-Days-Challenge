@@ -38,5 +38,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/4sum/description/?source=post_page---------------------------">4 Sum</a></td>
     <td><a href="https://www.codingbroz.com/4sum-leetcode-solution/">Solution </a></td>
   </tr>
+  <tr>
+    <td>14/2/24</td>
+    <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Inerval</a></td>
+    <td><a href="https://www.geeksforgeeks.org/merging-intervals/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
