@@ -43,10 +43,7 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Inerval</a></td>
     <td><a href="https://www.geeksforgeeks.org/merging-intervals/">Solution </a></td>
   </tr>
-    <td>14/2/24</td>
-    <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Inerval</a></td>
-    <td><a href="https://www.geeksforgeeks.org/merging-intervals/">Solution </a></td>
-  </tr>
+  <tr>
     <td>15/2/24</td>
     <td><a href="https://leetcode.com/problems/valid-parentheses/description/">Valid Parenthesis</a></td>
     <td><a href="https://leetcode.com/problems/valid-parentheses/solutions/4723071/c-simple-solution-beats-100/">Solution </a></td>
