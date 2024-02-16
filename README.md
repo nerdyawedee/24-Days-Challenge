@@ -25,12 +25,12 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
   </tr>
   <tr>
     <td>11/2/24</td>
-    <td><a href="https://leetcode.com/problems/maximum-subarray/description/">MAX SUBARRAY </a></td>
+    <td><a href="https://leetcode.com/problems/maximum-subarray/description/">Max Subarray</a></td>
     <td><a href="https://www.interviewbit.com/blog/maximum-subarray-sum/">Solution </a></td>
   </tr>
   <tr>
     <td>12/2/24</td>
-    <td><a href="https://leetcode.com/problems/sort-colors/description/">SORT COLORS</a></td>
+    <td><a href="https://leetcode.com/problems/sort-colors/description/">Sort Colors</a></td>
     <td><a href="https://medium.com/nerd-for-tech/leetcode-sort-colors-b62131dd8a0d">Solution </a></td>
   </tr>
   <tr>
