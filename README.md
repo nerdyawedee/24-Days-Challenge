@@ -58,5 +58,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/permutation-in-string/">Permutation String</a></td>
     <td><a href="https://leetcode.com/problems/permutation-in-string/solutions/">Solution </a></td>
   </tr>
+  <tr>
+    <td>18/2/24</td>
+    <td><a href="https://leetcode.com/problems/palindrome-partitioning/">Palindrome Partitioning</a></td>
+    <td><a href="https://leetcode.com/problems/palindrome-partitioning/solutions/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
