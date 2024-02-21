@@ -74,5 +74,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/minimum-window-substring/description/">Minimum Window Substring</a></td>
     <td><a href="https://leetcode.com/problems/minimum-window-substring/solutions/">Solution </a></td>
   </tr>
+  <tr>
+    <td>21/2/24</td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/description/">Reverse Linked List</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-linked-list/solutions/3211778/using-2-methods-iterative-recursive-beats-97-91/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
