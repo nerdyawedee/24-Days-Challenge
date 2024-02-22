@@ -79,5 +79,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/reverse-linked-list/description/">Reverse Linked List</a></td>
     <td><a href="https://leetcode.com/problems/reverse-linked-list/solutions/3211778/using-2-methods-iterative-recursive-beats-97-91/">Solution </a></td>
   </tr>
+  <tr>
+    <td>22/2/24</td>
+    <td><a href="https://leetcode.com/problems/subsets/description/">Subsetst</a></td>
+    <td><a href="https://leetcode.com/problems/subsets/solutions/4765571/beats-100-0ms-include-exclude-pattern/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
