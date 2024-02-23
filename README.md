@@ -81,8 +81,13 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
   </tr>
   <tr>
     <td>22/2/24</td>
-    <td><a href="https://leetcode.com/problems/subsets/description/">Subsetst</a></td>
+    <td><a href="https://leetcode.com/problems/subsets/description/">Subsets</a></td>
     <td><a href="https://leetcode.com/problems/subsets/solutions/4765571/beats-100-0ms-include-exclude-pattern/">Solution </a></td>
+  </tr>
+  <tr>
+    <td>23/2/24</td>
+    <td><a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a></td>
+    <td><a href="https://leetcode.com/problems/combination-sum/solutions/1777569/full-explanation-with-state-space-tree-recursion-and-backtracking-well-explained-c/">Solution </a></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
