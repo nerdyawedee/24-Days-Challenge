@@ -89,5 +89,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/combination-sum/">Combination Sum</a></td>
     <td><a href="https://leetcode.com/problems/combination-sum/solutions/1777569/full-explanation-with-state-space-tree-recursion-and-backtracking-well-explained-c/">Solution </a></td>
   </tr>
+  <tr>
+    <td>24/2/24</td>
+    <td><a href="https://leetcode.com/problems/generate-parentheses/description/">Generate Parenthesis</a></td>
+    <td><a href="https://leetcode.com/problems/generate-parentheses/solutions/4775497/beats-100-c-solutions-generating-parentheses-simple-explanition/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
