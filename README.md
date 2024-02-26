@@ -99,5 +99,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/lru-cache/description/">LRU CACHE</a></td>
     <td><a href="https://leetcode.com/problems/lru-cache/solutions/3171305/solution/">Solution </a></td>
   </tr>
+  <tr>
+    <td>26/2/24</td>
+    <td><a href="https://leetcode.com/problems/first-missing-positive/description/">First Missing Positive</a></td>
+    <td><a href="https://leetcode.com/problems/first-missing-positive/solutions/4770114/c-easy-to-understand-solution/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
