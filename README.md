@@ -96,7 +96,7 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
   </tr>
   <tr>
     <td>25/2/24</td>
-    <td><a href="https://leetcode.com/problems/lru-cache/description/">LRU CACHE</a></td>
+    <td><a href="https://leetcode.com/problems/lru-cache/description/">Lru Cache</a></td>
     <td><a href="https://leetcode.com/problems/lru-cache/solutions/3171305/solution/">Solution </a></td>
   </tr>
   <tr>
