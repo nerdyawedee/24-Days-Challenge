@@ -109,5 +109,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/spiral-matrix/description/">Spiral Matrix</a></td>
     <td><a href="https://leetcode.com/problems/spiral-matrix/solutions/4786370/easy-understandable-code-with-100-beat-c-tc-o-m-n/">Solution </a></td>
   </tr>
+  <tr>
+    <td>29/2/24</td>
+    <td><a href="https://leetcode.com/problems/valid-sudoku/description/">Valid Sudoku</a></td>
+    <td><a href="https://leetcode.com/problems/valid-sudoku/submissions/1189874820/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
