@@ -114,5 +114,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/valid-sudoku/description/">Valid Sudoku</a></td>
     <td><a href="https://leetcode.com/problems/valid-sudoku/submissions/1189874820/">Solution </a></td>
   </tr>
+  <tr>
+    <td>1/2/24</td>
+    <td><a href="https://leetcode.com/problems/word-search/description/">Word Search</a></td>
+    <td><a href="https://leetcode.com/problems/word-search/solutions/4609336/easy-to-understand/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
