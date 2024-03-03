@@ -115,9 +115,14 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/valid-sudoku/submissions/1189874820/">Solution </a></td>
   </tr>
   <tr>
-    <td>1/2/24</td>
+    <td>1/3/24</td>
     <td><a href="https://leetcode.com/problems/word-search/description/">Word Search</a></td>
     <td><a href="https://leetcode.com/problems/word-search/solutions/4609336/easy-to-understand/">Solution </a></td>
+  </tr>
+  <tr>
+    <td>2/3/24</td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/">Flatten Binary Tree To Linked List</a></td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4743582/flatten-binary-tree-to-linkedlist-simple-c-solution-easy-to-understand/">Solution </a></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
