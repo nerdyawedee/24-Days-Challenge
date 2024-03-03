@@ -124,5 +124,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/">Flatten Binary Tree To Linked List</a></td>
     <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4743582/flatten-binary-tree-to-linkedlist-simple-c-solution-easy-to-understand/">Solution </a></td>
   </tr>
+  <tr>
+    <td>3/3/24</td>
+    <td><a href="https://leetcode.com/problems/palindrome-linked-list/description/">PalindromeLinked List</a></td>
+    <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4743582/flatten-binary-tree-to-linkedlist-simple-c-solution-easy-to-understand/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
