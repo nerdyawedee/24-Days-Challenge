@@ -129,5 +129,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/palindrome-linked-list/description/">PalindromeLinked List</a></td>
     <td><a href="https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4743582/flatten-binary-tree-to-linkedlist-simple-c-solution-easy-to-understand/">Solution </a></td>
   </tr>
+  <tr>
+    <td>4/3/24</td>
+    <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/">Reverse Nodes in K Group</a></td>
+    <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/4727655/best-c-solution/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
