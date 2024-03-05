@@ -134,5 +134,10 @@ This is 30 Days Coding Challenge in which everyday for about 30days I will solve
     <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/description/">Reverse Nodes in K Group</a></td>
     <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/solutions/4727655/best-c-solution/">Solution </a></td>
   </tr>
+  <tr>
+    <td>5/3/24</td>
+    <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/description/">Merge Two Linked List</a></td>
+    <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/solutions/1826666/c-easy-to-understand-2-approaches-recursive-iterative/">Solution </a></td>
+  </tr>
   <!-- Add more rows as needed -->
 </table>
