@@ -1,4 +1,4 @@
-# 30-Days-Challenge
+# 24-Days-Challenge
 
 <div align="center">
   <img src="https://github.com/nerdyawedee/30-Days-Challenge/assets/121428321/8f70977d-85dd-405b-98d9-45eac5edca0d" alt="Image" />
